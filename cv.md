@@ -1,4 +1,4 @@
-![myphoto](/rsschool-cv/myphoto.jpg)
+![myphoto](myphoto.jpg)
 
 ## **Ekaterina Zhukova (rs school: kate23com)**
 
