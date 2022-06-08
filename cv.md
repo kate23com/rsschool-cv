@@ -26,10 +26,47 @@ I'm a begginner frontend developer and a studet of the Rs school. I finally deci
 
 > *But i'm already know:*
 
-* HTML 
+- HTML
 
-* CSS
+- CSS
 
-* GIT / GITHIB
+- GIT/GITHUB
+
+--- 
+
+### **Code example** 
+
+```
+function multiply(a, b) { 
+    
+  return a * b
+
+}; 
+```
+
+---
+
+### **Education**
+
+- [HTML Academy](https://htmlacademy.ru/)
+
+- [Fundamentals of Mathematics for Digital Professions](https://practicum.yandex.ru/math-foundations/)
+
+- JavaScript in the process of studying
+
+---
+
+### **Experience**
+
+- [CV.md](https://github.com/kate23com/rsschool-cv)
+
+---
+
+### **Languages**
+
+- Russian - native speaker
+
+- English - B1 Intermediate
+
 ---
 
