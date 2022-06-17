@@ -1,21 +1,4 @@
-/* .menu {
-
-    display: inline-block;
-    list-style-type: none;
-    padding-left: 0;
-    margin-left: 320px;
-}
-.menu a {
-    text-decoration: none;
-    font-family: sans-serif;
-    color: #270b4b;
-    padding: 10px 30px;
-    background-color: #dbc8f5;
-    border-bottom: 5px solid #270b4b;
-}
-.menu li {
-    display: inline; */
-nav {
+   nav {
     height: 40px;
     width: 100%;
     background: #dbc8f5;
@@ -89,7 +72,7 @@ h1.side-text {
 .photo {
     margin-top: 20px;
     margin-left: 20px;
-    border-radius: 50%;sss
+    border-radius: 50%;
 }
 .cv {
     margin-left: 370px;
