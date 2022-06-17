@@ -1,3 +1,121 @@
-.name {
-    color: brown;
+/* .menu {
+
+    display: inline-block;
+    list-style-type: none;
+    padding-left: 0;
+    margin-left: 320px;
+}
+.menu a {
+    text-decoration: none;
+    font-family: sans-serif;
+    color: #270b4b;
+    padding: 10px 30px;
+    background-color: #dbc8f5;
+    border-bottom: 5px solid #270b4b;
+}
+.menu li {
+    display: inline; */
+nav {
+    height: 40px;
+    width: 100%;
+    background: #dbc8f5;
+    font-family: sans-serif;
+    font-weight: bold;
+    position: relative;
+    border-bottom: 5px solid #270b4b;
+}
+nav ul {
+    padding: 0;
+    margin: auto;
+    width: 600px;
+    height: 40px;
+}
+nav li {
+    display: inline;
+    float:right
+} 
+.menu1:before
+.menu1:after {
+    content: " ";
+    display: table;
+}
+.menu1:after {
+    clear: both;
+}
+.menu1 {
+    zoom: 1;
+}
+
+nav a {
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+    width: 100px;
+    line-height: 40px;
+    text-shadow: 1px 1px 0px #270b4b;
+}
+
+nav li a {
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+}
+nav li:last-child a {
+    border-right: 0;
+}
+nav a:hover, nav a:active {
+    background-color: #dbc8f5;
+}
+.side {
+    height: 120%;
+    width: 350px;
+    position: absolute;
+    left: 8px;
+    top: 45px;
+    padding-top: 20px;
+    /* background-color: #dbc8f5; */
+    color: #270b4b;
+    min-height: 100%;
     }
+h1.side-text {
+    margin-left: 20px;
+    color: #270b4b;
+    font-size: 40px;
+}
+.side-text {
+    margin-left: 20px;
+    color: #270b4b;
+}
+.photo {
+    margin-top: 20px;
+    margin-left: 20px;
+    border-radius: 50%;sss
+}
+.cv {
+    margin-left: 370px;
+    color: #270b4b;
+}
+.about {
+    border-bottom: #270b4b 5px solid;
+
+}
+.about1 {
+    width: 780px;
+}
+.skills {
+    border-bottom: #270b4b 5px solid; 
+}
+.education {
+    border-bottom: #270b4b 5px solid; 
+}
+.example {
+    border-bottom: #270b4b 5px solid;    
+}
+.Expirience {
+    border-bottom: #270b4b 5px solid;    
+}
+.footer1 {
+    border-top: #270b4b 5px solid;
+    background-color: #dbc8f5;
+    text-align: center;
+}
